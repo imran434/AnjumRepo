@@ -1,3 +1,4 @@
+MERGES
 Hello,World
 new text to be added
 old changes are mandatory
