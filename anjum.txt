@@ -5,3 +5,5 @@ printf(enter the values of a and b)
 printf(%d %d,,)
 scanf(%d %d,,)
 getch()
+insertion of tag
+insertion of tag-2.6
